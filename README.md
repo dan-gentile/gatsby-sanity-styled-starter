@@ -19,7 +19,7 @@ Built off of the Gatsby Default Starter it includes the Styled Components packag
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    gatsby new my-default-starter https://github.com/dan-gentile/gatsby-sanity-styled-starter
     ```
 
 1.  **Start developing.**
