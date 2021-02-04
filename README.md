@@ -5,12 +5,11 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Sanity, Styled Components + Gatsby Starter 
 </h1>
-
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+<p align="center">
+Built off of the Gatsby Default Starter it includes the Styled Components package/plugin, Sanity IO Headless CMS plugin and the Smooth Scroll Plugin
+</p>
 
 ## 🚀 Quick start
 

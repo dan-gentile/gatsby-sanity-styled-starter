@@ -1,22 +1,27 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-sanity-styled-starter",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Get Started with Gatsby, Sanity and Styled Components",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Dan Gentile <dan@foxandrabbit.us>",
   "dependencies": {
+    "babel-plugin-styled-components": "^1.12.0",
     "gatsby": "^2.26.1",
     "gatsby-image": "^2.5.0",
     "gatsby-plugin-manifest": "^2.6.1",
     "gatsby-plugin-offline": "^3.4.0",
     "gatsby-plugin-react-helmet": "^3.4.0",
     "gatsby-plugin-sharp": "^2.8.0",
+    "gatsby-plugin-smoothscroll": "^1.2.0",
+    "gatsby-plugin-styled-components": "^3.10.0",
     "gatsby-source-filesystem": "^2.5.0",
+    "gatsby-source-sanity": "^6.0.5",
     "gatsby-transformer-sharp": "^2.6.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "styled-components": "^5.2.1"
   },
   "devDependencies": {
     "prettier": "2.2.1"
